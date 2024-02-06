@@ -1,2 +1,2 @@
-# Digital_Surverys
+# Digital_Surveys
 FotoTouch Management Manual
